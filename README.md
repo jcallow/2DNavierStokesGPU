@@ -1,2 +1,2 @@
 # 2DNavierStokesGPU
-Experiments trying to implement a 2D Navier Stokes fluid solver on an NVIDIA GPU.
+Experimenting with an implementation of a 2D Navier Stokes fluid solver on an NVIDIA GPU.
